@@ -1,6 +1,6 @@
 # datamining_employee_attrition_study
 Employee attrition study by data mining, using CRISP-DM methodology
-# https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+#### https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 The project enabled to learn that data mining as the core process where a
 number of complex and intelligent methods are applied to extract patterns
 from data. Data mining process includes a number of tasks such as
